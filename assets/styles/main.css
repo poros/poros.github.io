@@ -301,7 +301,7 @@ h4 {
   font-size: 1.6rem;
 }
 a {
-  color: #4b0082;
+  color: #337ab7;
   text-decoration: underline;
 }
 p {
@@ -511,7 +511,7 @@ pre {
 .home > .list > .item:hover > .url > .title,
 .blog > .list > .item:hover > .url > .title,
 .projects > .list > .item:hover > .url > .title {
-  color: #4b0082;
+  color: #337ab7;
 }
 .home > .list aside,
 .blog > .list aside,
@@ -660,7 +660,7 @@ pre {
   font-size: 1.6rem;
 }
 .tag-list > .list > .item:hover > .url > .title {
-  color: #4b0082;
+  color: #337ab7;
 }
 .tag-list > .list aside {
   position: relative;
@@ -809,7 +809,7 @@ pre {
   margin: 0;
 }
 .footer-main > .link > .icon:hover {
-  fill: #4b0082 !important;
+  fill: #337ab7 !important;
 }
 .footer-main > .extra {
   color: #aaa;
@@ -1131,7 +1131,7 @@ pre {
   width: 35px;
 }
 .social-links > .link:hover > .icon {
-  fill: #4b0082;
+  fill: #337ab7;
 }
 .social-links > .link:hover:before {
   opacity: 1;
