@@ -2,7 +2,7 @@
 
 # TEAM
 
-	Your name - your home
+    Antonio Uccio Verardi - Writer, Software Engineer
 
 # TECHNOLOGY
 

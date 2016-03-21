@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Antonio Uccio Verardi
+bio: "A guy who writes when he can't sleep. Software Engineer at <a href='http://www.yelp.com' target='_blank'>Yelp</a>"
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: https://koppl.in/indigo
+url: https://poros.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -14,28 +14,28 @@ permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 
-analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-48109654-1'
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: antoniouccioverardi
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: antonio.uccio.verardi
+twitter: poros_7
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+linkedin: antonioverardi
+# youtube: myyoutube
+# spotify: myspotify
+github: poros
+# medium: medium
+email: antonio.uccio.verardi@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -49,7 +49,7 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
@@ -58,7 +58,7 @@ show-tags: true
 related: true
 
 # do you want some animations?
-animation: true
+animation: false
 
 gems:
   - jemoji
