@@ -1,6 +1,31 @@
 ---
-layout: blog
+layout: default
 permalink: /blog/index.html
 title: Blog
 showHeader: true
 ---
+{% include header.html %}
+
+<section class="list">
+	{% if site.posts.size == 0 %}
+		<p class="text-center">Nothing published yet!</p>
+	{% elsif site.paginate %}
+		{% for post in paginator.posts %}
+	        {% include post.html %}
+	    {% endfor %}
+
+		{% if site.paginate %}
+            {% if post.blog %}
+			    {% include pagination.html%}
+            {% endif %}
+		{% endif %}
+	{% else %}
+		{% for post in site.posts %}
+            {% if post.blog %}
+			    {% include post.html %}
+            {% endif %}
+		{% endfor %}
+	{% endif %}
+</section>
+
+{% include footer.html %}
