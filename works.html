@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /works/index.html
+title: Works 
+showHeader: true
+---
+{% include header.html %}
+
+<section class="list">
+    {% for post in site.posts %}
+        {% if post.works %}
+	        {% include post.html %}
+        {% endif %}
+    {% endfor %}
+</section>
+
+{% include footer.html %}
