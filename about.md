@@ -1,5 +1,6 @@
 ---
 title: About
+type: about
 layout: page
 permalink: /about/index.html
 ---

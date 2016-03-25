@@ -1,13 +1,13 @@
-<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
+<nav class="{% if page.type == "home" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
-        {% if page.title != "Home" %}
+        {% if page.type != "home" %}
             <li class="item">
                 <a class="link" href="{{ site.url }}/">Home</a>
             </li>
         {% endif %}
 
         {% if site.blog == true %}
-            {% if page.title != "Blog" %}
+            {% if page.type != "blog" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/blog">Blog</a>
                 </li>
@@ -15,7 +15,7 @@
         {% endif %}
 
         {% if site.projects == true %}
-            {% if page.title != "Projects" %}
+            {% if page.type != "projects" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/projects">Projects</a>
                 </li>
@@ -23,7 +23,7 @@
         {% endif %}
 
         {% if site.works == true %}
-            {% if page.title != "Works" %}
+            {% if page.type != "works" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/works">Works</a>
                 </li>
@@ -31,7 +31,7 @@
         {% endif %}
 
         {% if site.about == true %}
-            {% if page.title != "About" %}
+            {% if page.type != "about" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/about">About</a>
                 </li>
