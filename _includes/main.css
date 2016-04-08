@@ -1138,7 +1138,7 @@ pre {
   -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0);
 }
-@media (min-width: 500px) {
+@media (min-width: 1024px) {
   .social-links > .link:before {
     content: attr(data-title);
     display: inline-block;
@@ -1162,7 +1162,7 @@ pre {
     z-index: 99;
   }
 }
-@media (min-width: 500px) {
+@media (min-width: 1024px) {
   .social-links > .link:after {
     content: "";
     position: absolute;
