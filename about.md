@@ -6,43 +6,22 @@ permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+####If you're looking for the computer guy
+Writing code and tinkering with computers for a living, writing code and tinkering with computers for fun.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Still uncertain whether he's a Software Engineer, a Systems Engineer or a Software Reliability Engineer, keeps telling people he's one of the computer guys on the Infrastructure team at Yelp. Mainly interested in distributed systems and stream processing, has a taste for open-source software. Mostly working on real-time metrics at the moment.
 
-<h2>Skills</h2>
+Accidentally stumbled upon a couple of degrees and diplomas in Computer Engineering oscillating between Italy and France. Recruiters seem to go nuts for that stuff on [LinkedIn](http://linkedin.com/in/antonioverardi). Sadly enough, girls are not impressed.
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+Raised as a fervent C programmer, got fascinated by the zen of Python and then converted without much resistance long time ago. Learned a couple of those cool shaolin tricks since then, but still practicing the [import antigravity](https://xkcd.com/353/) thing without much success. Recently developed a teenage crush on Haskell and functional programming, just waiting for it to pass on its own.
 
-<h2>Projects</h2>
+<br>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+####If you are just looking for the guy in the picture
+Mainly writing code and poetry. Even actual words from time to time.
+
+Regularly dumping some of them on [Facebook](http://facebook.com/antonio.uccio.verardi). Very rarely [publishing](http://poros.github.io/works/) or [blogging](http://poros.github.io/pseudoblog/) them.
+
+Primarily interested in literature in all its forms, from essays on postmodernism to Disney comics or graffiti on toilet doors. And philosophy, video games and game design, too. But also physics, math, psychology, riddles, cinema and art in general (yeah, even classic). Oh, and obviously nice food!
+
+Most precious and useless skill is being able to pleasantly discuss about literally anything with anyone, especially if blessed by utter ignorance of the matter. Always up for a live demo.
