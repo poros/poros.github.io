@@ -553,6 +553,13 @@ pre {
   margin: 0 auto;
   display: block;
 }
+.about p {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+      hyphens: auto;
+}
 .post {
   margin-top: 125px;
 }
@@ -595,6 +602,13 @@ pre {
 .post > h3 a,
 .post > h4 a {
   text-decoration: none;
+}
+.post p {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+      hyphens: auto;
 }
 .tags {
   margin-top: 125px;
