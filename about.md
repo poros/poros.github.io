@@ -22,6 +22,6 @@ Mainly writing code and poetry. Even actual words from time to time.
 
 Regularly dumping some of them on [Facebook](http://facebook.com/antonio.uccio.verardi). Very rarely [publishing](http://poros.github.io/works/) or [blogging](http://poros.github.io/pseudoblog/) them.
 
-Primarily interested in literature in all its forms, from essays on postmodernism to Disney comics or graffiti on toilet doors. And philosophy, video games and game design, too. But also physics, math, psychology, riddles, cinema and art in general (yeah, even classic). Oh, and obviously nice food!
+Primarily interested in literature in all its forms, from essays on postmodernism to Disney comics or graffiti on public toilets doors. And in philosophy, video games and game design, too. But also in physics, math, psychology, riddles, cinema and art in general (yeah, even classic). Oh, and obviously in nice food.
 
-Most precious and useless skill is being able to pleasantly discuss about literally anything with anyone, especially if blessed by utter ignorance of the matter. Always up for a live demo.
+Considers his most precious and useless skill the ability of pleasantly discussing about literally anything with anyone, especially if blessed by utter ignorance of the matter. Always up for a live demo.
