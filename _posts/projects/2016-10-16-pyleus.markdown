@@ -1,0 +1,22 @@
+---
+title: "Pyleus"
+layout: post
+date: 2016-04-10 15:20
+tag:
+ - python
+ - storm
+projects: true
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">pyleus - Pyleus is a Python framework for developing and launching Storm topologies. <a href="http://t.co/cYGLCkk1ao">http://t.co/cYGLCkk1ao</a> <a href="https://twitter.com/hashtag/python?src=hash">#python</a></p>&mdash; Python Trending (@pythontrending) <a href="https://twitter.com/pythontrending/status/522493412113920000">October 15, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We’ve just open sourced pyleus, an open-source framework for building Storm topologies in pure Python: <a href="http://t.co/JRZ53nL0Ne">http://t.co/JRZ53nL0Ne</a></p>&mdash; Yelp Engineering (@YelpEngineering) <a href="https://twitter.com/YelpEngineering/status/522457196194308097">October 15, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yelp’s Pyleus is doing for <a href="https://twitter.com/stormprocessor">@stormprocessor</a> what their MrJob did for <a href="https://twitter.com/hadoop">@hadoop</a>: <a href="http://t.co/iMq2X50s62">http://t.co/iMq2X50s62</a> <a href="https://twitter.com/hashtag/exciting?src=hash">#exciting</a></p>&mdash; Adrian Petrescu (@apetresc) <a href="https://twitter.com/apetresc/status/522484991066771456">October 15, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Pyleus](https://github.com/Yelp/pyleus) was my intern project at Yelp in 2014. I wrote most of the code there together with @patricklucas (the author of this [blogpost](http://engineeringblog.yelp.com/2014/10/introducing-pyleus.html)).
+
+Even though I'm not involved in the project anymore, I still hang around the GitHub issue tracking from time to time, trying to help people out. Oddly enough, it is beautifully [documented](https://yelp.github.io/pyleus/).
