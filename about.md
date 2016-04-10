@@ -6,7 +6,7 @@ permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-####If you're looking for the computer guy
+#### If you're looking for the computer guy
 Writing code and tinkering with computers for a living, writing code and tinkering with computers for fun.
 
 Still uncertain whether he's a Software Engineer, a Systems Engineer or a Software Reliability Engineer, keeps telling people he's one of the computer guys on the Infrastructure team at Yelp. Mainly interested in distributed systems and stream processing, has a taste for open-source software. Mostly working on real-time metrics at the moment.
@@ -17,7 +17,7 @@ Raised as a fervent C programmer, got fascinated by the zen of Python and then c
 
 <br>
 
-####If you are just looking for the guy in the picture
+#### If you are just looking for the guy in the picture
 Mainly writing code and poetry. Even actual words from time to time.
 
 Regularly dumping some of them on [Facebook](http://facebook.com/antonio.uccio.verardi). Very rarely [publishing](http://poros.github.io/works/) or [blogging](http://poros.github.io/pseudoblog/) them.
