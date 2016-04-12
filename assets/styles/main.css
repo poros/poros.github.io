@@ -541,6 +541,15 @@ pre {
 .works > .list .item:hover .url aside {
   color: #666;
 }
+.projects > .list > .item > .url > .title {
+  display: inline;
+}
+.projects > .list > .item > .url > .emoji {
+  display: inline;
+  position: relative;
+  top: -4px;
+  margin-right: 10px;
+}
 .page {
   margin-top: 125px;
 }
