@@ -2,16 +2,39 @@
 layout: default
 permalink: /pseudoblog/index.html
 title: PseudoBlog
-subtitle: Interpretation is left as an exercise to the reader
 type: blog
 showHeader: true
 ---
 <header class="header-home">
     <h1 class="title">{{ page.title }}</h1>
-    <h2 class="description">{{ page.subtitle }}</h2>
+    <h2 id="blog-subtitle" class="description">{% if page.subtitle %} {{page.subtitle}} {% endif %}</h2>
 
     {% include social-links.html %}
 </header>
+
+<script>
+var sentences = [
+    "now featuring pseudoreaders",
+    "pseudosubtitle",
+    "interpretation is left as an exercise to the reader",
+    "real blogging is left as an exercise to the reader",
+    "couldn't wrap my head around blogging syntax",
+    "couldn't decide on a blogging language",
+    "write once, run never",
+    "write once, read never",
+    "please stop refreshing the page"
+];
+
+function getRandomSentence() {
+    var index = Math.floor(Math.random() * (sentences.length - 1));
+    return sentences[index];
+}
+
+{% unless page.subtitle %}
+document.getElementById("blog-subtitle").textContent = getRandomSentence();
+{% endunless  %}
+</script>
+
 
 {% include nav.html %}
 
