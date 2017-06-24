@@ -13,7 +13,7 @@ Still uncertain whether he's a Software Engineer, a Systems Engineer or a Softwa
 
 Having accidentally stumbled upon a couple of degrees and diplomas in Computer Engineering between Italy and France, he tries to keep his boring past locked up on [LinkedIn](http://linkedin.com/in/antonioverardi).
 
-Raised as a fervent C programmer, got fascinated by the zen of Python and then converted without much resistance long time ago. Learned a couple of those cool shaolin tricks since then, but still practicing the [import antigravity](https://xkcd.com/353/) thing without much success. Recently developed a teenage crush on Haskell and functional programming, just waiting for it to pass on its own.
+Raised as a fervent C programmer, got fascinated by the zen of Python and then converted without much resistance long time ago. Learned a couple of those cool shaolin tricks since then, but still practicing the [import antigravity](https://xkcd.com/353/) thing without much success. Recently developed a teenage crush on functional programming, just waiting for it to pass on its own.
 
 <br>
 
