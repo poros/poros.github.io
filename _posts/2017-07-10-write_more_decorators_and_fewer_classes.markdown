@@ -1,7 +1,7 @@
 ---
 title: "write more decorators (and fewer classes)"
 layout: post
-date: 2017-07-11 22:00
+date: 2017-07-11 19:00
 tag: python
 ---
 
