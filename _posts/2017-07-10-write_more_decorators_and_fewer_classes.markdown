@@ -2,6 +2,7 @@
 title: "write more decorators (and fewer classes)"
 layout: post
 date: 2017-07-11 19:00
+blog: true
 tag: python
 ---
 
