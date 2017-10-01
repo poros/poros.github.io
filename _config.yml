@@ -68,7 +68,7 @@ related: true
 # do you want some animations?
 animation: false
 
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-feed
