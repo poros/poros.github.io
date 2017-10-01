@@ -69,7 +69,6 @@ related: true
 animation: false
 
 gems:
-  - jemoji
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-feed
