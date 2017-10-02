@@ -9,10 +9,13 @@ tag:
 description: "Talk given at EuroPython 2017"
 ---
 
-## video coming soon ##
+<iframe width="960" height="569" src="https://www.youtube.com/embed/XsPKwUT5gLE" frameborder="0" allowfullscreen></iframe>
+
+---
 
 <iframe src="https://docs.google.com/presentation/d/1BRK4tpYozcPVUPg2x0cIQ88uDgNcpArfxP6wA3Dprs0/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+---
 
 ## Abstract ##
 
