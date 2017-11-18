@@ -8,17 +8,6 @@ description: "Storia per un compleanno meglio nota come La leggenda dei due male
 ---
 
 
-<div align="center">
-<a href="https://www.dropbox.com/s/a3bx0xlmppqfbze/La_leggenda_dei_due_maledetti.pdf?dl=1"><img src="{{ site.url }}/assets/images/download-pdf-icon.png" alt="Download PDF" height="80"></a>
-</div>
-
-<div align="center">
-<h3>
-<a href="https://www.dropbox.com/s/a3bx0xlmppqfbze/La_leggenda_dei_due_maledetti.pdf?dl=1">Download PDF</a>
-</h3>
-</div>
-
-
 <H1 ALIGN="CENTER"><SPAN  CLASS="textbf">Storia per un compleanno</SPAN>
 <BR><SMALL>meglio nota come</SMALL>
 <BR><BIG CLASS="XXLARGE">
@@ -29,6 +18,14 @@ La leggenda dei due maledetti</BIG></H1>
 </DIV>
 
 <P>
+
+<div align="center">
+<h3>
+<a href="https://www.dropbox.com/s/a3bx0xlmppqfbze/La_leggenda_dei_due_maledetti.pdf?dl=1">Download PDF</a>
+</h3>
+</div>
+
+
 
    <BR>
    <DIV ALIGN="RIGHT">
