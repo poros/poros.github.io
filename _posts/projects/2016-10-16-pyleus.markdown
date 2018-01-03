@@ -20,3 +20,10 @@ projects: true
 [Pyleus](https://github.com/Yelp/pyleus) was my intern project at Yelp in 2014. I wrote most of the code there together with @patricklucas (the author of this [blogpost](http://engineeringblog.yelp.com/2014/10/introducing-pyleus.html)).
 
 Even though I'm not involved in the project anymore, I still hang around the GitHub issue tracking from time to time, trying to help people out. Oddly enough, the project is beautifully [documented](https://yelparchive.github.io/pyleus/).
+
+<div align="center">
+<a style="color:black" href="https://github.com/Yelp/pyleus">
+<img src="/assets/images/github_logo.png" alt="Check it out on GitHub">
+<p><strong>Check it out on GitHub</strong></p>
+</a>
+</div>

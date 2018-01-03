@@ -8,4 +8,11 @@ projects: true
 
 [LaTeXi](http://poros.github.io/LaTeXi/) è un template LaTeX per tesi di laurea in italiano ed inglese. Realizzato in modo da essere facile e veloce da usare anche per persone che muovono i primi passi con LaTeX, LaTeXi è espressamente pensato per atenei italiani, poiché si basa sulle funzionalità offerte dal pacchetto [TopTesi](http://www.ctan.org/tex-archive/macros/latex/contrib/toptesi).
 
-È già stato usato da una decina di laureandi del Politecnico di Torino senza troppi problemi, ma fate un fischio nel caso abbiate bisogno di aiuto. 
+È già stato usato da una decina di laureandi del Politecnico di Torino senza troppi problemi, ma fate un fischio nel caso abbiate bisogno di aiuto.
+
+<div align="center">
+<a style="color:black" href="https://github.com/poros/LaTeXi">
+<img src="/assets/images/github_logo.png" alt="Check it out on GitHub">
+<p><strong>Check it out on GitHub</strong></p>
+</a>
+</div>
