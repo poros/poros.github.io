@@ -1,7 +1,7 @@
 ---
-title: "Pytest Tips"
+title: "Three Pytest Tips"
 layout: post
-date: 2016-04-11 00:10
+date: 2017-01-03 22:00
 tag:
 - python
 - pytest
@@ -15,9 +15,11 @@ I happened to use [pytest](https://github.com/pytest-dev/pytest) a lot in the la
 ### Parametrized dictionary
 
 **Use case**
+
 Run the same test with different input parameters and expected values
 
 **Benefit**
+
 - Tidy code
 - Human-readable test names
 
@@ -77,18 +79,103 @@ line = 'GET 404', expected = {'request': 'GET', 'status': '404'}
 For more information on pytest parametrization, have a look at the documentation
 [here](https://docs.pytest.org/en/latest/parametrize.html).
 
-### Mock yield
+### Context manager/mock yield
 
-njksdnjnandn,na
+**Use case**
 
-### Mock decorator last
+Execute some setup and teardown logic for a fixture (**not** a test)
 
-njklsnlsnklns
+**Benefit**
 
-### Combine fixtures
+- More compact code
+- Avoiding test pollution
 
-msklanslkmkla
+Pytest provides a feature to execute some setup and teardown logic
+when defining a fixture, like in the example below:
+
+{% highlight python %}
+def session():
+    # setup
+    client = client.open("myapp.com/api", 872)
+	# provide the fixture value
+    yield session
+    # teardown
+    session.close()
+{% endhighlight %}
+
+This feature is incredibly useful when combined with context managers,
+since they are going to automatically execute the teardown code when
+they get out of scope; e.g. opening of a file:
+
+{% highlight python %}
+def text():
+	with open("text.txt") as f:
+		yield f
+{% endhighlight %}
+
+This feature makes possible to create pytest fixtures where we can **mock**
+something out **only** until the fixture stays in scope, avoiding a pretty
+common source of test pollution:
+
+{% highlight python %}
+def consumer():
+	with mock.patch('logging.getLogger'):
+		yield Consumer('my_stream')
+{% endhighlight %}
+
+If you want to know more about this feature, the documentation has a nice
+writeup
+[here](https://docs.pytest.org/en/latest/fixture.html#fixture-finalization-executing-teardown-code)
+
+### Composing fixtures
+
+**Use case**
+
+Define a fixture based on another fixture and intercat with both of them
+in the test
+
+**Benefit**
+- Modular code
+- Shorter tests
+
+Pytest fixtures can be combined at any level, making very easy to build
+chains of mocked components. This is easier showed than said, so let's
+just have a look at an example:
+
+{% highlight python %}
+@pytest.fixture
+def stream():
+    return mock.Mock(spec=Stream)
+
+@pytest.fixture
+def output():
+    return open('test.txt', 'w')
+
+@pytest.fixture
+def tailer(self, stream, output):
+    with mock.patch('logging.getLogger', autospec=True):
+        yield Tailer(stream, output, mock.sentinel.lines)
+
+@mock.patch('consumer.read_lines')
+def test_tailer(mock_read, tailer, stream):
+    stream.fetch.return_value = "test\n"
+    tailer.run()
+    mock_read.assert_called_once_with(stream, mock.sentinel.lines)
+    with open('test.txt', 'r') as f:
+        assert f.read() == "test"
+{% endhighlight %}
+
+As you can see, the `stream` fixture is used as parameter to create a
+the `tailer` fixture. Then, both of them are used in the test case to
+make the desired assertions.
+
+This one is probably useful only for integration tests or tests covering
+lots of moving parts, but it makes reading these complex tests much
+easier, since it makes much more explicit the relation between all
+the components involed in the test.
 
 ---
 
-I might add more tips to the list as time goes by in case I find anyhting useful and general enough.
+I kept this list short in the hope that people could at least remember one of
+the tips; but I might write more tips in another post in case I find something
+particularly useful. Stay tuned!
