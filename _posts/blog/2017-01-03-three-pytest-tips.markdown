@@ -52,7 +52,7 @@ the parameters; in our case is always going to be the list of values of the
 dictionary.
 
 Finally, the third parameter is the list of test names that will be used for each
-generated test case; in our case this corresponds with the keys of the dictionaries.
+generated test case; in our case this corresponds with the keys of the dictionary.
 
 This is the output when you run `pytest -v` with the above code:
 
@@ -78,6 +78,10 @@ line = 'GET 404', expected = {'request': 'GET', 'status': '404'}
 
 For more information on pytest parametrization, have a look at the documentation
 [here](https://docs.pytest.org/en/latest/parametrize.html).
+
+**Note:** `dict.values()` and `dict.keys()` should have the same order starting
+from Python 3.6. Before that it was implementation dependent, but it worked for
+me since Python2.6. I never tried with PyPy, though.
 
 ### Context manager/mock yield
 
@@ -109,8 +113,8 @@ they get out of scope; e.g. opening of a file:
 
 {% highlight python %}
 def text():
-	with open("text.txt") as f:
-		yield f
+    with open("text.txt") as f:
+        yield f
 {% endhighlight %}
 
 This feature makes possible to create pytest fixtures where we can **mock**
@@ -119,8 +123,8 @@ common source of test pollution:
 
 {% highlight python %}
 def consumer():
-	with mock.patch('logging.getLogger'):
-		yield Consumer('my_stream')
+    with mock.patch('logging.getLogger'):
+        yield Consumer('my_stream')
 {% endhighlight %}
 
 If you want to know more about this feature, the documentation has a nice
