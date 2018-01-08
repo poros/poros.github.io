@@ -1,7 +1,7 @@
 ---
 title: "Three Pytest Tips"
 layout: post
-date: 2017-01-03 22:00
+date: 2018-01-03 22:00
 tag:
 - python
 - pytest
