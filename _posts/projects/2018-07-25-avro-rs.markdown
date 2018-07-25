@@ -1,0 +1,25 @@
+---
+title: "avro-rs"
+layout: post
+date: 2018-07-25 16:00
+tag:
+ - python
+ - rust
+ - avro
+projects: true
+---
+
+This project is something [@flavray](https://github.com/flavray) and I worked on during an hackathon and that became both a series of libraries and a [talk](http://poros.github.io/how-to-write-rust-instead-of-c-and-get-away-with-it/) presented at EuroPython 2018.
+
+Since we had to work a lot with [Apache Avro](https://avro.apache.org/) for our job, we made a Rust implementation of the Avro spec which deals with schemas, serialization, deserealization, validation and all that cool stuff: [avro-rs](https://gitub.com/flavray/avro-rs). It's using the [serde](https://serde.rs/) framework under the hood and, as for now, it's the "recommended" (and only) way to deal with Avro in Rust! ;)
+
+Since we were also pretty annoyed by how slow the Apache Avro Python library was, we decided to expose our Rust library via FFI ([avro-rs-ffi](https://github.com/flavray/avro-rs-ffi)) and wrap it up in Python: [pyavro-rs](https://github.com/flavray/pyavro-rs).
+
+Aside from making it a couple orders of magnitude faster (watch the [talk](http://poros.github.io/how-to-write-rust-instead-of-c-and-get-away-with-it/) for benchmarks), we also made the user interface a bit more "easy on the eyes", because why not? :P
+
+<div align="center">
+<a style="color:black" href="https://github.com/flavray/avro-rs">
+<img src="/assets/images/github_logo.png" alt="Check it out on GitHub">
+<p><strong>Check it out on GitHub</strong></p>
+</a>
+</div>
