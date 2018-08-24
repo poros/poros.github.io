@@ -11,7 +11,7 @@ tag:
 description: "Talk given at EuroPython 2018"
 ---
 
-**VIDEO COMING SOON**
+<iframe width="960" height="569" src="https://www.youtube.com/embed/u6ZbF4apABk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
