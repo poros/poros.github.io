@@ -28,3 +28,8 @@ I’ll show how this pattern can be employed to improve a programming interface 
 However, this talk doesn’t suggest giving up classes altogether, but making use of them only when they are truly useful. In fact, the use-case I’m going to analyze will combine classes, functions, and decorators to make the best out of these tools.
 
 Given that the presentation is going to be very code-oriented, the talk is intended for an audience of developers who are already familiar with most Python constructs, including decorators, even though the concept will be briefly introduced at the beginning of the talk. But, if you are one of these people, I promise you that the code will speak for itself.
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Write more decorators (and fewer classes) by Antonio Verardi - <a href="https://t.co/5i8uA7QfiO">https://t.co/5i8uA7QfiO</a>. This talk presents a pattern that can be used to design clean and pythonic interfaces for programmers based on replacing single-method classes with decorated functions.</p>&mdash; Python Software (@ThePSF) <a href="https://twitter.com/ThePSF/status/1017119332957065217?ref_src=twsrc%5Etfw">July 11, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
