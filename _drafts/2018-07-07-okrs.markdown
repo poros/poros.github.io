@@ -1,0 +1,16 @@
+---
+title: "Checklist for decent OKRs"
+layout: post
+date: 2019-07-07 00:00
+blog: true
+tag:
+- team-lead
+description: "Checklist for decent OKRs"
+---
+
+- [ ] &nbsp;It tracks the achievement of the objective
+- [ ] &nbsp;It is objectively measurable
+- [ ] &nbsp;It delivers value
+- [ ] &nbsp;It is reasonably resilient to scope change
+- [ ] &nbsp;It can provide reasonably accurate partial scores (it is not binary)
+- [ ] &nbsp;It is clear enough for readers without much context
