@@ -8,8 +8,16 @@ tag:
 - rust
 - avro
 - talk
-description: "Talk given at EuroPython 2018"
+description: "Talk given at EuroPython 2018 and Rustlab 2019"
 ---
+
+## Update from Rustlab 2019 (video coming soon) ##
+
+<iframe width="960" height="569" src="//www.slideshare.net/slideshow/embed_code/key/aSzQwswpeVhJjJ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Europython 2018 ##
 
 <iframe width="960" height="569" src="https://www.youtube.com/embed/u6ZbF4apABk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
