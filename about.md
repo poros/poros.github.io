@@ -20,7 +20,7 @@ Raised as a fervent C programmer, got fascinated by the zen of Python and then c
 #### If you are just looking for the guy in the picture
 Mainly writing code and poetry. Even actual words from time to time.
 
-Regularly dumping some of them on [Facebook](http://facebook.com/antonio.uccio.verardi). Very rarely [publishing](http://poros.github.io/works/) or [blogging](http://poros.github.io/pseudoblog/) them.
+Regularly dumping some of them on [Twitter](https://twitter.com/porosVII) or [Facebook](http://facebook.com/antonio.uccio.verardi). Very rarely [publishing](http://poros.github.io/works/) or [blogging](http://poros.github.io/pseudoblog/) them.
 
 Primarily interested in literature in all its forms, from essays on postmodernism to Disney comics or graffiti on public toilets doors. And in philosophy, video games and game design, too. But also in physics, math, psychology, riddles, cinema and art in general (yeah, even classic). Oh, and obviously in nice food.
 
