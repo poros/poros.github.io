@@ -11,7 +11,7 @@ tag:
 description: "Talk given at EuroPython 2018 and Rustlab 2019"
 ---
 
-## Update from Rustlab 2019 (video coming soon) ##
+## Update from Rustlab 2019 (with new PyO3 library)##
 
 <iframe width="960" height="569" src="//www.slideshare.net/slideshow/embed_code/key/aSzQwswpeVhJjJ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
