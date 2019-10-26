@@ -11,7 +11,9 @@ tag:
 description: "Talk given at Flink Forward 2019 Berlin"
 ---
 
-<iframe width="960" height="569" src="https://www.youtube.com/embed/hL5nNAMx8Bk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+<iframe width="840" height="473" src="https://www.youtube.com/embed/hL5nNAMx8Bk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 

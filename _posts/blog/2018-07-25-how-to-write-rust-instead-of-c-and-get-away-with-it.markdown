@@ -19,7 +19,9 @@ description: "Talk given at EuroPython 2018 and Rustlab 2019"
 
 ## Europython 2018 ##
 
-<iframe width="960" height="569" src="https://www.youtube.com/embed/u6ZbF4apABk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div align="center">
+<iframe width="840" height="473" src="https://www.youtube.com/embed/u6ZbF4apABk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ---
 
