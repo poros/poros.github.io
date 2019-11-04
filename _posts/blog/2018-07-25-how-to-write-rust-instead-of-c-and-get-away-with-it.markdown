@@ -13,6 +13,12 @@ description: "Talk given at EuroPython 2018 and Rustlab 2019"
 
 ## Update from Rustlab 2019 (with new PyO3 library) ##
 
+<div align="center">
+<iframe width="840" height="473" src="https://www.youtube.com/embed/BFHUDA3GCmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+---
+
 <iframe width="960" height="569" src="//www.slideshare.net/slideshow/embed_code/key/aSzQwswpeVhJjJ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
