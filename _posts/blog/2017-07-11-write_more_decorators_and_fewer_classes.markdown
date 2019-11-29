@@ -33,5 +33,5 @@ Given that the presentation is going to be very code-oriented, the talk is inten
 
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Write more decorators (and fewer classes) by Antonio Verardi - <a href="https://t.co/5i8uA7QfiO">https://t.co/5i8uA7QfiO</a>. This talk presents a pattern that can be used to design clean and pythonic interfaces for programmers based on replacing single-method classes with decorated functions.</p>&mdash; Python Software (@ThePSF) <a href="https://twitter.com/ThePSF/status/1017119332957065217?ref_src=twsrc%5Etfw">July 11, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-proofer-ignore><p lang="en" dir="ltr">Write more decorators (and fewer classes) by Antonio Verardi - <a href="https://t.co/5i8uA7QfiO">https://t.co/5i8uA7QfiO</a>. This talk presents a pattern that can be used to design clean and pythonic interfaces for programmers based on replacing single-method classes with decorated functions.</p>&mdash; Python Software (@ThePSF) <a href="https://twitter.com/ThePSF/status/1017119332957065217?ref_src=twsrc%5Etfw">July 11, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

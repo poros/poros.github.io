@@ -54,7 +54,7 @@ Error messages are good, though. Very good. After so much trial and error, I thi
 ## The compiler is smarter than you (except when it isn’t) ##
 Especially at the beginning, I found myself in a lot of situations where I was sure the compiler wasn’t just smart enough to understand that what I was doing was _safe_ (this is the magic word in Rust). A couple hours fighting with the Rust borrow checker and you’ll definitely understand what I am referring to. Well, I was wrong. The compiler always turned out to be smarter than me. The best course of action is just to accept it and change your code.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Three stages of <a href="https://twitter.com/hashtag/rust?src=hash&amp;ref_src=twsrc%5Etfw">#rust</a> compiling:<br>1 Compiler says that type is wrong<br>2 That type CAN&#39;T be wrong, you dumb compiler!<br>3 Fuck, it was wrong...</p>&mdash; AntonioUccioVerardi (@porosVII) <a href="https://twitter.com/porosVII/status/846518981678780417?ref_src=twsrc%5Etfw">March 28, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-proofer-ignore><p lang="en" dir="ltr">Three stages of <a href="https://twitter.com/hashtag/rust?src=hash&amp;ref_src=twsrc%5Etfw">#rust</a> compiling:<br>1 Compiler says that type is wrong<br>2 That type CAN&#39;T be wrong, you dumb compiler!<br>3 Fuck, it was wrong...</p>&mdash; AntonioUccioVerardi (@porosVII) <a href="https://twitter.com/porosVII/status/846518981678780417?ref_src=twsrc%5Etfw">March 28, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Truth to be told, this isn’t always always always true. There are a bunch of cases for which the compiler turns out to be a lot less smarter than you’d like to. However, they are all fairly recognizable after you gained a bit of experience and the Rust community is already working to fix them. This [issue](https://github.com/rust-lang/rust-roadmap/issues/17) on GitHub tracks all the language ergonomic and learnability improvements that are supposed to hit the language in the short term; many of them are already available in Rust Nightly, included [non-lexical lifetimes](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/).
@@ -94,7 +94,7 @@ Now, I definitely acknowledge that there was a pretty unlikely combination of ev
 ## What about 2018? ##
 Still learning, of course. Rust isn’t that easy (yet).
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Any sufficiently complicated code is indistinguishable from magic (Arthur C. Clarke on rust futures)</p>&mdash; AntonioUccioVerardi (@porosVII) <a href="https://twitter.com/porosVII/status/918510932803948544?ref_src=twsrc%5Etfw">October 12, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" data-proofer-ignore><p lang="en" dir="ltr">Any sufficiently complicated code is indistinguishable from magic (Arthur C. Clarke on rust futures)</p>&mdash; AntonioUccioVerardi (@porosVII) <a href="https://twitter.com/porosVII/status/918510932803948544?ref_src=twsrc%5Etfw">October 12, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Useful Links ##

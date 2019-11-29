@@ -21,7 +21,7 @@ La leggenda dei due maledetti</BIG></H1>
 
 <div align="center">
 <h3>
-<a href="https://goo.gl/eUNkoE">Download PDF</a>
+<a href="https://cutt.ly/9e2strL">Download PDF</a>
 </h3>
 </div>
 
