@@ -31,7 +31,7 @@ I pretty much like the idea to run tests for some kind of documents we write as 
 
 The items in this one are the result of many of my errors as a writer of OKRs, but since I cannot share the key results I wrote at Yelp, I'll try to demonstrate how to use the checklist with some fictional ones. Let's start.
 
-# Examples of OK KRs
+# Examples
 
 ## KR #1: Increase uptime from 99.5% to 99.9%
 
@@ -53,7 +53,7 @@ Let's take the happy path first and let's see how the checklist behaves with a s
 - [X] &nbsp;**It can provide reasonably accurate partial scores**
 - [X] &nbsp;**It is clear enough for readers without much context**
 
-Alright, let’s move to something slightly broken and therefore more interesting.
+OK, let's try something else, but still pretty alright.
 
 ## KR #2: 100% of our services are running on AWS
 
