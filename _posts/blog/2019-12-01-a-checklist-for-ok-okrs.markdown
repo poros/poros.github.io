@@ -95,13 +95,15 @@ Assuming that every company has at least an objective like "Deliver better and f
 
   Nope, this one is binary: we either deploy the cache or we don't.
 
-- [X] &nbsp;**It is clear enough for readers without much context**
+- [ ] &nbsp;**It is clear enough for readers without much context**
 
-As we can see, with three failed checks, the checklist identified quite clearly a bad KR.
+  I would argue that a reader could figure out that memcache is a technology which can be used to make GET requests faster with a Google search, but we could definitely make this more clear, too.
+
+As we can see, with four failed checks, the checklist identified quite clearly a bad KR.
 
 Alright, let’s move to something only slightly broken and therefore more interesting.
 
-## KR #4:  GET emoji calls will complete in less than 300 ms
+## KR #4: GET emoji calls complete in less than 300 ms
 
 With the same objective as before, let’s see how a key result which is just a bit off gets caught by the checklist:
 
@@ -121,7 +123,7 @@ With the same objective as before, let’s see how a key result which is just a 
 
 - [X] &nbsp;**It is clear enough for readers without much context**
 
-At this point, we should have caught that the metric we chose is kinda off and that we should move to something more similar to an SLO, like "99% of GET emoji calls averaged over 1 minute will complete in less than 300 ms".
+At this point, we should have caught that the metric we chose is kinda off and that we should move to something more similar to an SLO, like "99% averaged over 1 minute of GET emoji calls complete in less than 300 ms for 99.9% of the previous month".
 
 After having seen first hand how the checklist works, the next thing I want to show you is how we can make a key result better iterating through the checklist until we check all boxes.
 
