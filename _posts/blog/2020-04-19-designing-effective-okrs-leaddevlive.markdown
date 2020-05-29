@@ -7,7 +7,7 @@ tag:
 - talk
 - leaddev
 - okrs
-- teamlead
+- team-lead
 description: "Discussion panel hosted at LeadDevLive 2020"
 ---
 

@@ -1,0 +1,28 @@
+---
+title: "dumbpm"
+layout: post
+date: 2019-05-29 18:00
+tag:
+ - python
+ - team-leads
+ - team-process
+ - okrs
+projects: true
+---
+
+[dumbpm](https://github.com/poros/dumbpm) is a little command line utility I wrote some time ago to help me out prioritizing projects when it's planning time for my team. As you might have guess from the name, it is pretty dumb.
+
+Given that prioritization has always looked like some kind of voodoo to me, I have often toyed with the idea of transforming it in a "data problem". I know that there are alreaday a bunch of models out there, but some were too complicated, some did not have the dimensions I wanted and none of them had an open-source easy implementation that I could use, so I built my own.
+
+I really enjoyed writing a very concise and decently performant constrained [Knapsack](https://en.wikipedia.org/wiki/Knapsack_problem) solver in Python and tweaking the (very dumb) value function for my personal model (which can work with just value and cost, if you don't want to use every dimension of the model). I guess this is one of the joys of writing dead simple tools. But I must admit that this thing is borderline useless.
+
+For my own amusement, I regularly compare the results I get from [dumbpm](https://github.com/poros/dumbpm) with what my team ends up committing to for the next quarter. There are so many business and people constraints and influences in our quarterly prioritization exercise, that the optimal solution is not even remotely close to what we end up doing. I even introduced the ability to rig the prioritization algorithm to try to represent these fuzzy real word influences in the model, but, once again, this is just for the fun of trying to make the model results match with the real world.
+
+If you happen to give it a try, I'd be curious to know if this even remotely helped you out ;)
+
+<div align="center">
+<a style="color:black" href="https://github.com/poros/dumbpm">
+<img src="/assets/images/github_logo.png" alt="Check it out on GitHub">
+<p><strong>Check it out on GitHub</strong></p>
+</a>
+</div>
