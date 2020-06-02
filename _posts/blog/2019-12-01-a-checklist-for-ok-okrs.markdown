@@ -7,6 +7,7 @@ tag:
 - okrs
 - team-lead
 - yelp
+- talk
 description: "A checklist for OK OKRs"
 ---
 
@@ -22,6 +23,14 @@ Checklist to verify that a **Key Result** is at least OK.
 - [ ] &nbsp;**It is clear enough for readers without much context**
 
 Run yours through it and think over how you can improve them to tick all boxes.
+
+# Talk
+
+If you fancy watching a short talk rather than reading words, this is a remote talk that I did as part of the Yelping From Home: The Tech Talk Series on May 14th 2020 (apologies for the poor audio quality). I would still recommend reading the blog post though, as it presents many more examples.
+
+<div align="center">
+<iframe width="840" height="473" src="https://drive.google.com/file/d/1BnJH64b-0lWSga0cydwkPyVb0rvo_aTi/preview?t=4m7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 # A couple words more
 
