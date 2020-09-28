@@ -7,9 +7,9 @@ permalink: /about/index.html
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 #### If you're looking for the computer guy
-Writing code and tinkering with computers for a living, writing code and tinkering with computers for fun.
+Writing code and tinkering with computers for a living, writing code and tinkering with computers for fun. Also helping out a team of great people to do the same.
 
-Still uncertain whether he's a Software Engineer, a Systems Engineer or a Software Reliability Engineer, keeps telling his mom that he's one of the computer people at Yelp. Mainly interested in distributed systems and stream processing, has a taste for open-source software.
+Engineering Manager by day, Software/System/Reliability Engineer by night, keeps telling his mom that he's one of the computer people at Yelp. Mainly interested in distributed systems and stream processing, has a taste for open-source software.
 
 Having accidentally stumbled upon a couple of degrees and diplomas in Computer Engineering between Italy and France, tries to keep his boring past locked up on [LinkedIn](https://www.linkedin.com/in/antonioverardi).
 
