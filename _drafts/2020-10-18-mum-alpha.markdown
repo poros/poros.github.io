@@ -1,0 +1,66 @@
+---
+title: "Migrations under monopoly: Alpha"
+layout: post
+date: 2020-10-18 20:03
+blog: true
+tag:
+- technology-migrations-series
+description: "Migrations under monopoly: Alpha"
+---
+
+_This is the third installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/the-technology-migrations-series/)._
+
+# Migrations under monopoly: Alpha
+
+## Chapter 1 – Shiny little things
+
+_It didn't take many sprints for the Logging Infra team to get a prototype of Betelgeuse up and running. Sure, it was held together by duct tape and good intentions, but the design document Luke and the team had produced was already showing the light of a much brighter future._
+
+_It wasn't any of the flashy architecture diagrams which caught Leila's eye, though. What she was discussing with Luke at that moment was the migration plan that he had shared with her earlier that afternoon. Actually it was just this one bit of the migration plan._
+
+_"Are you really sure that this is going to take the whole year?" she asked._
+
+_"That sounds a bit too close, doesn't it?" Luke replied with half of a smile._
+
+_"We both know that it isn't what I meant," Leila said, her eyes narrowing._
+
+_"Eh, don't give it too much thought. We'll have plenty of time to tweak the estimates as we move forward." Luke's tone changed back to serious. "We are sure that we actually want to move forward, right?"_
+
+_A dark-launched version of Abacus had been logging to Betelgeuse in production for about two weeks now, and all the metrics were looking great. Compared to the Antares instance, message loss was practically zero, latency down by one order of magnitude. But Leila had been a CTO for long enough to know that Luke wasn't just worrying over nothing. Lots of things could change in one year, and a team of six engineers might come in handy one day. Still, the numbers were pretty good and everyone was so excited… "Of course we want to move forward. Ping me when the team hits prod for real."_
+
+_It wasn't long before she heard back from Luke. And, together with her, the Star Catalog and Revenue teams._
+
+_"We are still ironing out a couple bugs but, thanks to the experience we gained from both the dark and the actual production launch of Abacus, the team has refined Betelgeuse so much already that it's almost offensive to call this an alpha version." Luke wondered for a second if that sounded too cheesy. Just for a second, though._
+
+_"Luke, so… can we start using Betelgeuse yet?" The young tech lead on the Star Catalog team couldn't wait for the Q&A at the end._
+
+_"I'll stop by your desk right after this, Finn." Luke had to admit that Finn wasn't the only one excited._
+
+![Alpha](/assets/images/migrations_under_monopoly_1.png)
+<figcaption class="caption">Alpha – You</figcaption>
+
+## Alpha – You
+
+The first stage of the migration takes its name from its final deliverable: the **alpha** version of the new technology. You won't necessarily build the new system yourself, but even if you buy it directly from a vendor, there will always be some integration work necessary to make it fit within your company's technology stack and processes. That's what your team is going to deliver.
+
+As for the profile of the users of this first phase, that's pretty easy: **it's you**. In the early stages of iteration, you'll need a user who is expert in the domain, brutally honest, heavily invested in the migration and with the closest feedback loop possible. Obviously there is no one fitting this description better than your own team.
+
+In the alpha stage, you are going to follow your standard practices of good software development, but in general you should at least come up, in a couple of iterations, with some sort of **design document** and a **prototype** capable of running the internal use case you selected in the Preparations phase.
+
+As part of or alongside the design document, you should also draft a **migration plan**, describing how you intend to port **all** the company's use cases to the new technology. I know it sounds like a daunting task, but don't worry, you can use the checklist at the end of this blog post as a starting point. And don't forget to set an **estimated date of completion** for the migration. Don't try too hard to get it right – chances are that you'll miss it anyway.
+
+Once you are all set, you should be at the stage of being able to **dark-launch** your use case on the new system and **compare** it to the one running in production on the old system. Dark launches (or soft launches, or feature toggles, or canaries – choose whatever best fits your use case) are a very valuable tool during the early stages of a migration, as they will allow you to run your new system in **production** for validation, segregated from your original use case and with little to no impact on customers. We'll rely on them again in the next stage.
+
+With the experience and the metrics you have collected from the dark launch, your understanding of the technological challenges should be much deeper than at the beginning, so it's time to re-evaluate whether your company **really** wants to do this migration. **This is the best time to fail your migration**. The cost of failing fast is orders of magnitude lower than that of failing at a later stage of a migration, when giving up would mean reverting all the already migrated use cases or, even worse, maintaining two systems you are not satisfied with at the same time. And that's without considering all the future sunken development costs.
+
+Assuming you want to go ahead, it's time to **migrate your use case** for real. This usually goes reasonably well, as you have designed your prototype around it. During all this time your team will have improved (or rebuilt) your prototype into a product thanks to all the insight gained, the bugs discovered and the time passed since the start of the project. Make sure you keep this up until the last couple of stages of the migration.
+
+Now you are ready to announce to users and stakeholders that the **alpha** version of your shiny new thing is available! You may not consider this such a big deal after the software industry shifted to continuous delivery, but releases still play the crucial role of setting the **expectations** that your users will have for your product. Alpha should be perceived along the lines of "it's buggy, interfaces are going to change in a non-backward-compatible way, but it kinda works", and "kinda works" is as big as the distance between possible and impossible. Congrats! You can move to the next stage.
+
+<div align="center">
+<a href="http://poros.github.io/mum-beta/">
+<img src="/assets/images/next.png" alt="Next">
+</a>
+<b><figcaption class="caption">Next</figcaption></b>
+<figcaption class="caption">Migrations under monopoly: Beta</figcaption>
+</div>
