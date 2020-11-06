@@ -26,13 +26,13 @@ _"Well, that makes two of us!" replied Luke, picking up a marker._
 
 _Two months later, the new billing workload had already been dark-launched._
 
-_"That's one cool story, Luke," Leila said, looking up from her laptop. "And the metrics are looking good and the teams are happy. So why are you here?"_
+_"That's one cool story, Luke," Leia said, looking up from her laptop. "And the metrics are looking good and the teams are happy. So why are you here?"_
 
 _"I wanted to double-check with you that we still want to go ahead with Betelgeuse." Luke was unusually serious. "The migration guide is ready. We could ask our sponsors to migrate today, if we wanted to."_
 
-_"Listen, you seem to have decided already." This time it was Leila who could barely hide a smile. "Also, no one here would have the guts to tell Han that his new project wouldn't be going to production."_
+_"Listen, you seem to have decided already." This time it was Leia who could barely hide a smile. "Also, no one here would have the guts to tell Han that his new project wouldn't be going to production."_
 
-_The first email that Luke wrote to the freshly minted "Betelgeuse-users@starw.com" mailing list was the announcement of the beta version of Betelgeuse, an update on the two successful production launches for the sponsor teams and a pledge for beta testers. Attached to the email there was also a three-minute video of Han in his living room saying a few good things about Betelgeuse. And about the new billing workflow, of course. Leila could not hide her smile this time._
+_The first email that Luke wrote to the freshly minted "Betelgeuse-users@starw.com" mailing list was the announcement of the beta version of Betelgeuse, an update on the two successful production launches for the sponsor teams and a pledge for beta testers. Attached to the email there was also a three-minute video of Han in his living room saying a few good things about Betelgeuse. And about the new billing workflow, of course. Leia could not hide her smile this time._
 
 ![Beta](/assets/images/migrations_under_monopoly_2.png)
 <figcaption class="caption">Beta – Sponsors</figcaption>
@@ -45,9 +45,9 @@ The users of this phase are usually referred to as "early adopters", but I much 
 
 While your team keeps up with the usual iterations of development, the first thing you want to do in the beta stage of the migration is to work with your sponsors to **dark-launch** their use cases. Now, if you have selected them as I advised in the Preparations phase, the first use case should be pretty straightforward to launch, while the second one should be way more complex and troublesome, hopefully pushing your team to change and evolve your product to adapt to a much broader set of use cases. Monitor the same metrics that were used for your internal dark launch, or a superset of them, to compare your sponsor's dark-launched use cases with the ones running on the old system until everything looks right.
 
-This is also the time to use all the experience accumulated so far to write the first draft of your **migration guide**, which will be used by your future users to migrate their own use cases. This should also give you an idea of how hard it is going to be for users to migrate, and whether there are any pieces of the migration procedure which could be automated away. More on this in the next blog post.
+This is also the time to use all the experience accumulated so far to write the first draft of your **migration guide**, which will be used by your future users to migrate their own use cases. This should also give you an idea of how hard it is going to be for users to migrate, and whether there are any pieces of the migration procedure which could be automated away. More on this in the next blog post. A useful addition to the migration guide would be a section describing how to roll back the migration in case of any problem.
 
-Now you should have a pretty good idea of how hard this whole migration business is going to be, so it's time to re-evaluate whether your company **really** wants to do this migration (yep, one more time). Your sponsors, your team and management have all the data they need to identify a very risky migration and make it **fail** when the rollback cost is still pretty low. There is only your internal use case to roll back, which you could do on your own, and your sponsors' production use cases have not been touched yet. Listen carefully to anyone who has cold feet. If you fail now, you will save everyone a good deal of prolonged pain.
+You should now have a pretty good idea of how hard this whole migration business is going to be, so it's time to re-evaluate whether your company **really** wants to do this migration (yep, one more time). Your sponsors, your team and management have all the data they need to identify a very risky migration and make it **fail** when the rollback cost is still pretty low. There is only your internal use case to roll back, which you could do on your own, and your sponsors' production use cases have not been touched yet. Listen carefully to anyone who has cold feet. If you fail now, you will save everyone a good deal of prolonged pain.
 
 This is also a good time for you to step up your **communication** game. Set up a **channel to broadcast regular updates** about the progress of the migration (what the best channel is going to be depends on your company). It's also a good idea to **subscribe management** to that channel. And **don't stop sending updates until the very end.** What kills most migrations and leaves them in the limbo of never-ending endeavors is that **people forget about them**.
 

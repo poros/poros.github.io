@@ -22,17 +22,17 @@ _Rey was the most promising engineer in Luke's team. On the good days, also the 
 
 _"379." Luke's cunning smile widened as he watched Rey's reaction. "Is that a prime number?"_
 
-_"It's gotta be a prime number." Leila could not resist mocking Luke a little._
+_"It's gotta be a prime number." Leia could not resist mocking Luke a little._
 
 _"It's a big number." Luke knew how to take a joke, but not this time. "And among them there are plenty of legacy code bases. Rey is great,_
 
 _ and the automation she built will work for most repositories, but some of them will have to be migrated manually. From what she says, we could end up with thirty or more situations pretty much like the billing workflow one. This is definitely going to bleed into the next two quarters." Luke was going at full steam. "I know that rolling back would be pretty rough now after all this work we put in, but it's still an option. Are we sure that we really want to do this migration?"_
 
-_"Yes, this is still very important for the company and I believe that we should move forward." Leila didn't like the fact that her voice sounded a little annoyed. "I appreciate you being considerate, but how many more times are you gonna ask me that?"_
+_"Yes, this is still very important for the company and I believe that we should move forward." Leia didn't like the fact that her voice sounded a little annoyed. "I appreciate you being considerate, but how many more times are you gonna ask me that?"_
 
 _"That was the last one. What about you ask me next time?" Luke's distinctive grin was back on his face._
 
-_"I will if you take up the whole team for yet another year." Somehow Leila liked him more that way. "You have five minutes at the next All Hands."_
+_"I will if you take up the whole team for yet another year." Somehow Leia liked him more that way. "You have five minutes at the next All Hands."_
 
 _"With Betelgeuse, you can choose between guaranteed event delivery and low-latency logging, but in our tests even the latter has a delivery rate 100 times better than Antares. It's been powering five production use cases for months, and we measure the uptime in the five nines." Luke had rehearsed the sales pitch many times, but speaking to the entire company still made him a bit nervous. "We are going to migrate more than 90% of the use cases automatically in the coming weeks, so most of you won't even have to do anything! With your help, we plan to be entirely off Antares by the last quarter of the year."_
 
@@ -51,7 +51,7 @@ The first automation you want to invest in is **automating away as much as possi
 
 The second automation you want to invest in is an automatic **tracker of your migration progress**. This can be very easy, like a list and a counter of migrated use cases over all the ones running on the old system. If your company has been around for a while, this will likely already exist. If it doesn't, many future engineers will be in your debt.
 
-Before getting into the weeds of this migration phase, take some time to **polish** your product and your migration automation while you **wait** for the feedback from the beta users. Waiting might feel excruciating when you've gained so much momentum from the beta stage, but it is giving your users and management breathing room to establish **trust** in the new system just by using it and seeing it running. If you still have some lingering reliability problems, now is probably the best moment to iron them out before going full throttle. Waiting time is also a good time for restrospection.
+Before getting into the weeds of this migration phase, take some time to **polish** your product and your migration automation while you **wait** for the feedback from the beta users. Waiting might feel excruciating when you've gained so much momentum from the beta stage, but it is giving your users and management breathing room to establish **trust** in the new system just by using it and seeing it running. If you still have some lingering reliability problems, now is probably the best moment to iron them out before going full throttle. Waiting time is also a good time for retrospection.
 
 I have built into my recipe for migrations a good deal of escape hatches to avoid the catastrophic failure of a never-ending or abandoned migration, and this one is the **last chance** you have. Be absolutely certain that your company **really** wants to do this migration: **it isn't too late**. Failing now will have a non-negligible cost, with three production use cases to roll back, a probably compromised trust relationship with your sponsors, and a big blow to your team morale and motivation. But, trust me, this is nothing compared to what your company and your team are going to spend over time maintaining the complexity of two systems that no one is satisfied with until a third, harder, migration comes over. Don't be scared of throwing away months of development time: those are [sunk costs](https://en.wikipedia.org/wiki/Sunk_cost) and you'll never get them back. You, your team and management should rely on each other to make the best decision with the data you have.
 

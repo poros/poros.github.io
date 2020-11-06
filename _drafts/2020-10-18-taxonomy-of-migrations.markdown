@@ -31,6 +31,8 @@ When we find ourselves in a **competitive market** (with multiple competing tech
 
 Although these are not the kinds of migrations we are likely going to be running in our career as software engineers (usually the players of this game are companies, legislators or communities), they are a fascinating domain that can be reasoned about in terms of economics, demography, networks, game theory and anthropology. I wonder if anyone analyzed the migration to Python 3 this way ;)
 
+I am not going to cover the technology adoption life cycle in detail, as there is already plenty of literature about it. If you are interested, I recommend you start reading from the [Wikipedia page](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle).
+
 Next is a **competitive market on a small scale** (like a company). I call this one the **No-Migrations Quadrant** because of the second reason why we don't speak about "migrations" in competitive markets: **we shouldn't**.
 
 I believe that in such situations, instead of **wasting** time running several little migrations every time you gain a new user or use case, you should try to convince the people in charge that your technology is the best among all the ones available and that your team should have a **monopoly** over that technical area. The smaller the scale, the more forcing functions (e.g. management decisions) are effective as shortcuts to complete (or at least very large) adoption.
@@ -66,7 +68,11 @@ Coordinating with users, tracking down owners of legacy systems, persuading them
 
 The last kind of migration is the one most professional software engineers are interested in: **migrations under monopoly on a large scale** (usually a medium-sized to large company). In terms of team capacity, this means that your team would **not** be able to perform the migration by itself in a reasonable time. This means that some degree of coordination with users is necessary.
 
+If you are struggling to understand whether your case falls in the DIY migrations' category or in the large-scale migrations' one, you are probably looking at a DIY migration. Like in the movies, you will recognize a large-scale migration as soon as you see it.
+
 Inspired by the [technology adoption life cycle](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle), I came up with a personal psychographic representation of the users' distribution over time for an "ideal" migration under monopoly (at least for my definition of "ideal"). I did it mostly for fun, I must admit. But perhaps this curve will make it easier for me to describe, and for you to remember, what happens during each phase of a migration.
+
+Please note that the Y axis represents the number of users who migrated at a given time, not the total number of users who already migrated (which amounts instead to the area below the chart); this works exactly the same of the technology adoption life cycle chart.
 
 ![Migration under monopoly](/assets/images/migrations_under_monopoly.png)
 <figcaption class="caption">Migration under monopoly</figcaption>

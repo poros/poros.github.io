@@ -14,11 +14,11 @@ _This is the seventh installment in a series of blog posts on the topic of techn
 
 ## Chapter 5 – Children of a dying sun
 
-_"Luke, you did plenty already, are you really sure we have to go ahead with this migration?" Leila remembered as soon as she saw the smile widening on Luke's face._
+_"Luke, you did plenty already, are you really sure we have to go ahead with this migration?" Leia remembered as soon as she saw the smile widening on Luke's face._
 
 _"You know that we have to finish it. We are paying to run both Antares and Betelgeuse now, the time going into maintenance has doubled, people have to learn about both frameworks, and Antares will be a drag for any future innovation," Luke reminded her._
 
-_"I'll be honest, GalacticEmpire Inc grew up to be a pretty worrying competitor in the space of… well, virtual space travel. Their latest feature, DeathStar, gives customers the opportunity to see how their favorite star would evolve at super-high speed, and become a supernova or a red giant." Leila wanted Luke to see where she was coming from. "The board considers Project Force our answer, and we need all the help we can get to release it next quarter. If Rey plus someone else on the team could give a hand, even temporarily…"_
+_"I'll be honest, GalacticEmpire Inc grew up to be a pretty worrying competitor in the space of… well, virtual space travel. Their latest feature, DeathStar, gives customers the opportunity to see how their favorite star would evolve at super-high speed, and become a supernova or a red giant." Leia wanted Luke to see where she was coming from. "The board considers Project Force our answer, and we need all the help we can get to release it next quarter. If Rey plus someone else on the team could give a hand, even temporarily…"_
 
 _Luke let her finish. "May 4th." He did pause for dramatic effect. "May 4th is the day we shut down Antares. I have already told Rey that she is free to go help with Project Force. She said she wants to see this to the end, but I am sure you'll persuade her. You have your way with people."_
 

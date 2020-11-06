@@ -26,7 +26,7 @@ _Three weeks later, and with the kind help of Han and Rey, Luke was ready to try
 
 _Not everyone shared Luke and the team's happiness and relief, though. Two teams had somehow missed this entire Antares to Betelgeuse migration thing for 16 months straight, and their workflows were now broken. Luke could not be persuaded to bring Antares back to life once again, but offered them help with migrating. They were so satisfied with the offer that Luke would never hear back from them again._
 
-_The day the last reference to Antares had been removed from code bases and documentation, Luke sent a card, cookies and Betelgeuse stickers to everyone who had been involved in the migration. That evening the team (yep, Han included) celebrated in the office with drinks and funny stories. At the end of the night, Luke was genuinely surprised when Leila passed him one of those DeathStar VR headsets. He couldn't help but smile as Antares lit up in a shiny supernova._
+_The day the last reference to Antares had been removed from code bases and documentation, Luke sent a card, cookies and Betelgeuse stickers to everyone who had been involved in the migration. That evening the team (yep, Han included) celebrated in the office with drinks and funny stories. At the end of the night, Luke was genuinely surprised when Leia passed him one of those DeathStar VR headsets. He couldn't help but smile as Antares lit up in a shiny supernova._
 
 ![Deprecation](/assets/images/migrations_under_monopoly_6.png)
 <figcaption class="caption">Deprecation – Victims</figcaption>
