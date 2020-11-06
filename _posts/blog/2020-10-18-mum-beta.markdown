@@ -1,0 +1,66 @@
+---
+title: "Migrations under monopoly: Beta"
+layout: post
+date: 2020-10-18 20:04
+blog: true
+tag:
+- technology-migrations-series
+description: "Migrations under monopoly: Beta"
+---
+
+_This is the fourth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/the-technology-migrations-series/)._
+
+# Migrations under monopoly: Beta
+
+## Chapter 2 – Reach for the stars
+
+_The dark launch of the Stars Catalog service was running so smoothly that it was hard for Luke to persuade Finn to let it marinate a little more. Not that Luke wasn't confident in the stability of Betelgeuse, but the migration guide that he was drafting needed a bit more love before any user could follow it._
+
+_Instead, what Luke had little confidence in was his ability to find a compromise with the Revenue team and its manager, Lando. Since the beginning of the dark launch of its legacy billing workflow, the team had kept on discovering weird ways in which its application was relying on undocumented behaviors of Antares. Today's meeting was about one exotic partial ordering property of log lines which had simply no place in a distributed framework like Betelgeuse. Luke was ready to listen to some horrible hacks, when he walked into the room and found Han drawing on the whiteboard._
+
+_Han had been a remote developer at Starwalker for years, and a brilliant one, but Luke had heard only legends about his last visit to the office._
+
+_"Lando said that if I can find a way to make it work with Betelgeuse, I am free to re-architect the entire billing workflow the way I like," Han explained without stopping to draw… "I hate that thing."_
+
+_"Well, that makes two of us!" replied Luke, picking up a marker._
+
+_Two months later, the new billing workload had already been dark-launched._
+
+_"That's one cool story, Luke," Leia said, looking up from her laptop. "And the metrics are looking good and the teams are happy. So why are you here?"_
+
+_"I wanted to double-check with you that we still want to go ahead with Betelgeuse." Luke was unusually serious. "The migration guide is ready. We could ask our sponsors to migrate today, if we wanted to."_
+
+_"Listen, you seem to have decided already." This time it was Leia who could barely hide a smile. "Also, no one here would have the guts to tell Han that his new project wouldn't be going to production."_
+
+_The first email that Luke wrote to the freshly minted "Betelgeuse-users@starw.com" mailing list was the announcement of the beta version of Betelgeuse, an update on the two successful production launches for the sponsor teams and a pledge for beta testers. Attached to the email there was also a three-minute video of Han in his living room saying a few good things about Betelgeuse. And about the new billing workflow, of course. Leia could not hide her smile this time._
+
+![Beta](/assets/images/migrations_under_monopoly_2.png)
+<figcaption class="caption">Beta – Sponsors</figcaption>
+
+## Beta – Sponsors
+
+I call the second stage of a migration (unsurprisingly) the **beta** stage, taken from the name of the final deliverable of this phase. This is usually the one that exhibits the most variance according to who is leading the migration, but you should be able to recognize some key standard practices in my personal recipe if you have already been in a migration or two.
+
+The users of this phase are usually referred to as "early adopters", but I much prefer the name that Will Larson came up with: **sponsors**. These people's profile is the one of engineering teams who could really benefit from, and are excited about, the new technology you are promising; and they are ready to prioritize helping you out over some of their core business. They are going to give you not only precious time and feedback, but also **visibility**. Their successful use cases are going to be the best advertisement you'll ever get for your migration, both with future users and with management. Treat them well – they are making a bet on you!
+
+While your team keeps up with the usual iterations of development, the first thing you want to do in the beta stage of the migration is to work with your sponsors to **dark-launch** their use cases. Now, if you have selected them as I advised in the Preparations phase, the first use case should be pretty straightforward to launch, while the second one should be way more complex and troublesome, hopefully pushing your team to change and evolve your product to adapt to a much broader set of use cases. Monitor the same metrics that were used for your internal dark launch, or a superset of them, to compare your sponsor's dark-launched use cases with the ones running on the old system until everything looks right.
+
+This is also the time to use all the experience accumulated so far to write the first draft of your **migration guide**, which will be used by your future users to migrate their own use cases. This should also give you an idea of how hard it is going to be for users to migrate, and whether there are any pieces of the migration procedure which could be automated away. More on this in the next blog post. A useful addition to the migration guide would be a section describing how to roll back the migration in case of any problem.
+
+You should now have a pretty good idea of how hard this whole migration business is going to be, so it's time to re-evaluate whether your company **really** wants to do this migration (yep, one more time). Your sponsors, your team and management have all the data they need to identify a very risky migration and make it **fail** when the rollback cost is still pretty low. There is only your internal use case to roll back, which you could do on your own, and your sponsors' production use cases have not been touched yet. Listen carefully to anyone who has cold feet. If you fail now, you will save everyone a good deal of prolonged pain.
+
+This is also a good time for you to step up your **communication** game. Set up a **channel to broadcast regular updates** about the progress of the migration (what the best channel is going to be depends on your company). It's also a good idea to **subscribe management** to that channel. And **don't stop sending updates until the very end.** What kills most migrations and leaves them in the limbo of never-ending endeavors is that **people forget about them**.
+
+At this point, you should have had enough time to nail that old dark launch business, so be ready to finally migrate your sponsors' production use cases. Actually, **ask** your sponsors to migrate them using your migration guide. This should be a good source of feedback.
+
+Assuming everything goes well, it's time to send the first **migration progress update** and **announce the beta release** of your system. The expectations for a beta version are likely going to be "no known critical bugs, features are missing, interfaces may change in a non-backward-compatible way, but this should pretty much work in production".
+
+In the announcement, remember to make clear that **beta testers** are welcome and that you are eager to help them out. And now **wait**. You may not get anyone who wants to migrate early, but the feedback you've got from your sponsors should be enough to **polish** your migration guide and build some automation for the next stage.
+
+<div align="center">
+<a href="http://poros.github.io/mum-automation/">
+<img src="/assets/images/next.png" alt="Next">
+</a>
+<b><figcaption class="caption">Next</figcaption></b>
+<figcaption class="caption">Migrations under monopoly: Automation</figcaption>
+</div>
