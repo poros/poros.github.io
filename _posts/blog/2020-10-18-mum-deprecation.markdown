@@ -10,9 +10,9 @@ description: "Migrations under monopoly: Deprecation"
 
 _This is the eighth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
 
-# Migrations under monopoly: Deprecation
+## Migrations under monopoly: Deprecation
 
-## Chapter 6 – The fault in our stars
+### Chapter 6 – The fault in our stars
 
 _The air above the Logging Infra pod was a strange mixture of excitement, anxiety and anticipation on May 4th. Luke asked for the privilege of deploying the branch to turn off Antares, and the team was happy to grant his wish. In retrospect, suspiciously happy._
 
@@ -31,7 +31,7 @@ _The day the last reference to Antares had been removed from code bases and docu
 ![Deprecation](/assets/images/migrations_under_monopoly_6.png)
 <figcaption class="caption">Deprecation – Victims</figcaption>
 
-## Deprecation – Victims
+### Deprecation – Victims
 
 The last and final stage is the one where you are going to pull the weight of your **monopoly** to reach the **termination** (a.k.a. it won't run anymore), or at least the complete **deprecation** of the old technology, meaning that no more maintenance time will be spent on it and that it could stop working at any time.
 

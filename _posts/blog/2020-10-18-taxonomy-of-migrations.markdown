@@ -11,7 +11,7 @@ description: "A taxonomy of migrations"
 
 _This is the first installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
 
-# A taxonomy of migrations
+## A taxonomy of migrations
 
 When we talk about migrations in the technology domain, we usually refer to the process of moving from one technology, system or way of operating something to another. Within this pretty broad definition fall quite a few things that look pretty different from each other, so there is a lot of space for sorting them out into various categories.
 
@@ -20,7 +20,7 @@ My personal [taxonomy](https://en.wikipedia.org/wiki/Taxonomy) of technology mig
 ![Taxonomy of technology migrations](/assets/images/taxonomy.png)
 <figcaption class="caption">Taxonomy of technology migrations</figcaption>
 
-## Migrations in a competitive market?
+### Migrations in a competitive market?
 
 It is extremely rare to talk about "migrations" in a competitive market scenario. There are two good reasons for this. The first is that they are better known under a different name.
 
@@ -39,13 +39,13 @@ I believe that in such situations, instead of **wasting** time running several l
 
 An example of one such migration that shouldn't happen would be migrating the teams in your group from some in-house JavaScript framework to React, while another group is in the process of moving to Angular.
 
-## Migrations under monopoly
+### Migrations under monopoly
 
 Operating under a monopoly, your team would have **agency over what technology to adopt** and **how and when** it should be adopted, and, at the same time, **supply** such technology. This doesn't mean that your team should necessarily build such technology. At the time of writing, the trend in the industry is for internal teams to offer infrastructure and platforms by assembling and gluing open-source and/or commercially available solutions (e.g. a computing platform based on Kubernetes and AWS EC2).
 
 What kind of monopoly would be best for your company to adopt is a whole different topic altogether. My default suggestion is to go for a **"benevolent" monopoly**, where your team is responsible for providing a **"preferred" technology**, but other teams are allowed to adopt something else if they can properly justify why that is a better fit to their use case. It might help to avoid the stagnation of innovation typical of monopolies, but only if your team is open to recognizing and taking ownership of new successful technologies that others may end up using. You'll also have to be comfortable with some degree of chaos, of course.
 
-### DIY migrations
+#### DIY migrations
 
 Moving on to the two monopolistic quadrants, things should start to look more familiar to most engineers in the crowd. When we talk about monopolies, scale is usually much smaller, so I tend to compare it to the **capacity of the team**.
 
@@ -64,7 +64,7 @@ When I suggest such an approach, new acolytes of migrations often look at me wit
 
 Coordinating with users, tracking down owners of legacy systems, persuading them to work on your migration instead of their priorities (or other migrations!), enabling and helping them to perform the migration, making sure everyone sticks to the deadline. Migrations rarely finish (or at least their length is highly unpredictable), because of the tremendous hidden cost of coordination. So rejoice: a little DIY can save you from the pain of herding human beings toward a not-so-shared goal!
 
-### Large-scale migrations
+#### Large-scale migrations
 
 The last kind of migration is the one most professional software engineers are interested in: **migrations under monopoly on a large scale** (usually a medium-sized to large company). In terms of team capacity, this means that your team would **not** be able to perform the migration by itself in a reasonable time. This means that some degree of coordination with users is necessary.
 

@@ -10,9 +10,9 @@ description: "Migrations under monopoly: The fat tail"
 
 _This is the seventh installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
 
-# Migrations under monopoly: The fat tail
+## Migrations under monopoly: The fat tail
 
-## Chapter 5 – Children of a dying sun
+### Chapter 5 – Children of a dying sun
 
 _"Luke, you did plenty already, are you really sure we have to go ahead with this migration?" Leia remembered as soon as she saw the smile widening on Luke's face._
 
@@ -27,7 +27,7 @@ _Luke had identified 5 use cases out of the 17 left in the fat tail which must h
 ![The fat tail](/assets/images/migrations_under_monopoly_5.png)
 <figcaption class="caption">The fat tail – Laggards</figcaption>
 
-## Fat tail – Laggards
+### Fat tail – Laggards
 
 The following stage is the one where most abandoned migrations end up beached, because of the lost momentum and because the company's interest has moved on to something new and shinier which shows a lot of promise. I refer to this stage as the **fat tail** of use cases which, for one reason or another, have never been migrated and will likely never be. The users' profile for this phase is that of the **laggards**: they are not against the new technology, but they really don't find it compelling enough to prioritize adoption over everything else, and they ended up lagging behind. They might eventually migrate, though; in fact, in this phase you may still see some use cases migrated over time, but not nearly enough to finish the migration in a reasonable time.
 

@@ -10,7 +10,7 @@ description: "The migration checklist"
 
 _This is the ninth and last installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
 
-# The migration checklist
+## The migration checklist
 
 If you've endured this blog post series until the end, you may well be interested in a checklist to follow while running migrations, so you won't have to read the entire thing again when you need it ;)
 

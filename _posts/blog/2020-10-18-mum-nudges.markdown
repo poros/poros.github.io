@@ -10,9 +10,9 @@ description: "Migrations under monopoly: Nudges"
 
 _This is the sixth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
 
-# Migrations under monopoly: Nudges
+## Migrations under monopoly: Nudges
 
-## Chapter 4 – Lights from the past
+### Chapter 4 – Lights from the past
 
 _Luke was coming out of each team meeting a little more tired than the one before. He always found it very hard to keep people motivated during periods of prolonged calm, perhaps because he himself was losing motivation. The migration was dragging out, and all the momentum they had built up to the peak at the end of last year had been slowly eroded by six months of attrition._
 
@@ -25,7 +25,7 @@ _Luke opened the migration tracker once again, and this time he was able to see 
 ![Nudges](/assets/images/migrations_under_monopoly_4.png)
 <figcaption class="caption">Nudges – Adopters</figcaption>
 
-## Nudges – Adopters
+### Nudges – Adopters
 
 The next phase of a migration under monopoly is the one of **nudges**, which we are going to use in order to compensate for the loss of momentum typical of the second half of migrations. I refer to the users targeted in this stage as **adopters**, as they are going to make a concrete effort to adopt your new technology for their use cases. It's easy to feel frustrated because of not-very-cooperative users or teams constantly delaying previous commitments. But appreciate that these people are still taking action to migrate to a new system which has been imposed on them (you know, monopolies), and it is very likely that their use cases are non-trivial as well, as you couldn't migrate them automatically in the previous phase, so feel grateful that they have not decided to ignore your requests instead.
 

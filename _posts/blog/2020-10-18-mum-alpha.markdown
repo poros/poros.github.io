@@ -10,9 +10,9 @@ description: "Migrations under monopoly: Alpha"
 
 _This is the third installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
 
-# Migrations under monopoly: Alpha
+## Migrations under monopoly: Alpha
 
-## Chapter 1 – Shiny little things
+### Chapter 1 – Shiny little things
 
 _It didn't take many sprints for the Logging Infra team to get a prototype of Betelgeuse up and running. Sure, it was held together by duct tape and good intentions, but the design document Luke and the team had produced was already showing the light of a much brighter future._
 
@@ -39,7 +39,7 @@ _"I'll stop by your desk right after this, Finn." Luke had to admit that Finn wa
 ![Alpha](/assets/images/migrations_under_monopoly_1.png)
 <figcaption class="caption">Alpha – You</figcaption>
 
-## Alpha – You
+### Alpha – You
 
 The first stage of the migration takes its name from its final deliverable: the **alpha** version of the new technology. You won't necessarily build the new system yourself, but even if you buy it directly from a vendor, there will always be some integration work necessary to make it fit within your company's technology stack and processes. That's what your team is going to deliver.
 

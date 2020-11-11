@@ -10,9 +10,9 @@ description: "Migrations under monopoly: Beta"
 
 _This is the fourth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
 
-# Migrations under monopoly: Beta
+## Migrations under monopoly: Beta
 
-## Chapter 2 – Reach for the stars
+### Chapter 2 – Reach for the stars
 
 _The dark launch of the Stars Catalog service was running so smoothly that it was hard for Luke to persuade Finn to let it marinate a little more. Not that Luke wasn't confident in the stability of Betelgeuse, but the migration guide that he was drafting needed a bit more love before any user could follow it._
 
@@ -37,7 +37,7 @@ _The first email that Luke wrote to the freshly minted "Betelgeuse-users@starw.c
 ![Beta](/assets/images/migrations_under_monopoly_2.png)
 <figcaption class="caption">Beta – Sponsors</figcaption>
 
-## Beta – Sponsors
+### Beta – Sponsors
 
 I call the second stage of a migration (unsurprisingly) the **beta** stage, taken from the name of the final deliverable of this phase. This is usually the one that exhibits the most variance according to who is leading the migration, but you should be able to recognize some key standard practices in my personal recipe if you have already been in a migration or two.
 

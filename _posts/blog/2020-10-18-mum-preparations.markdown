@@ -10,12 +10,12 @@ description: "Migrations under monopoly: Preparations"
 
 _This is the second installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
 
-# Migrations under monopoly: Preparations
+## Migrations under monopoly: Preparations
 
 In this post and the ones to follow, I will go over my ideal model of large-scale migrations under monopoly and my personal recipe for how to run them successfully. To do so, we will follow the fictional migration of all software applications in the Starwalker company from their first-generation in-house logging framework, Antares, to their second-generation one, Betelgeuse. But before we start, let me tell you what this post will **not** cover.
 
 
-## Start from the basics (somewhere else)
+### Start from the basics (somewhere else)
 
 If you are **completely new** to technology migrations, I honestly recommend you **leave** this place to read [Migrations: the sole scalable fix to tech debt](https://lethain.com/migrations/) by **Will Larson** and/or watch his talk [Paying Technical Debt at Scale – Migrations @Stripe](https://www.youtube.com/watch?v=OFjvJmS_uDo). He is a much better writer than I am, and I learned a ton from the content he produced. Once you can articulate to your boss and your users **why** you'd want to run a migration, please be my guest again :)
 
@@ -28,7 +28,7 @@ I will also assume that:
 
 I know this is a lot to take for granted, but I want to keep this post focused and not turn it into a book :P
 
-## Chapter 0 – A new star is born
+### Chapter 0 – A new star is born
 
 _At Starwalker, the world-leading company for space travel virtual experiences, there is a running joke that if you chat for long enough with someone working in engineering, they will eventually start complaining about Antares. Developers hate it because it's hard to use, it's excruciatingly slow, and log lines often go missing. Maintainers hate it because it's a hot mess of legacy infrastructure and breaks every other night. Management hates it because it costs a ton of money to keep the servers running and it's hard to find people who want to work on it._
 
@@ -41,7 +41,7 @@ _While Luke was securing high-profile sponsors for the Betelgeuse project, the L
 ![Preparations](/assets/images/migrations_under_monopoly_0.png)
 <figcaption class="caption">Preparations</figcaption>
 
-## Preparations
+### Preparations
 
 Preparatory work doesn't show up on the chart, but it is foundational to successful migrations and establishes the relationships with the three actors in migrations: **the boss, the users and the team**.
 

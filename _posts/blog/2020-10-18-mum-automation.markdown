@@ -10,9 +10,9 @@ description: "Migrations under monopoly: Automation"
 
 _This is the fifth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
 
-# Migrations under monopoly: Automation
+## Migrations under monopoly: Automation
 
-## Chapter 3 – The sun is closer from up here
+### Chapter 3 – The sun is closer from up here
 
 _"379. Is that a prime number? It's gotta be a prime number." Rey's mind was toying with what was showing up in the migration tracker. "379 repositories left to migrate to Betelgeuse versus… well, 5. It's kinda hard to test the regular expression with only 5…". Her thought was interrupted by Luke entering her field of vision._
 
@@ -41,7 +41,7 @@ _Looking down at the 32 tickets tracking the repositories which required manual 
 ![Automation](/assets/images/migrations_under_monopoly_3.png)
 <figcaption class="caption">Automation – Bystanders</figcaption>
 
-## Automation – Bystanders
+### Automation – Bystanders
 
 The third stage is the one of **automation**, as it is going to play a key role in migrating the **bulk of users** from the old technology to the new one. The users of this phase have well-understood and rather simple use cases at this point, and they are (hopefully) the vast majority. These users are going to stay mostly **passive** and only watch the migration unfolding under their eyes through your chosen channel of communication, and for these reasons I call them **bystanders**. This is also going to be the peak of your migration, so be ready for the hike.
 
