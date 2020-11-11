@@ -9,7 +9,7 @@ tag:
 description: "A taxonomy of migrations"
 ---
 
-_This is the first installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/the-technology-migrations-series/)._
+_This is the first installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
 
 # A taxonomy of migrations
 

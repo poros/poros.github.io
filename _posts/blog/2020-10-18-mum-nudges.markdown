@@ -8,7 +8,7 @@ tag:
 description: "Migrations under monopoly: Nudges"
 ---
 
-_This is the sixth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/the-technology-migrations-series/)._
+_This is the sixth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
 
 # Migrations under monopoly: Nudges
 
