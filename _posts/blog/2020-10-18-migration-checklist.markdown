@@ -62,11 +62,11 @@ If you've endured this blog post series until the end, you may well be intereste
   - [ ] &nbsp;Send migration progress update
   - [ ] &nbsp;Wait
 - [ ] &nbsp;Nudges – Adopters
-  - [ ] &nbsp;]Nudge all remaining users to migrate (be creative!)
-  - [ ] &nbsp;]Wait
-  - [ ] &nbsp;]Check migration progress
-  - [ ] &nbsp;]Send migration progress update
-  - [ ] &nbsp;]Repeat until the number of use cases migrated per round is low and constant (or zero) for at least two iterations
+  - [ ] &nbsp;Nudge all remaining users to migrate (be creative!)
+  - [ ] &nbsp;Wait
+  - [ ] &nbsp;Check migration progress
+  - [ ] &nbsp;Send migration progress update
+  - [ ] &nbsp;Repeat until the number of use cases migrated per round is low and constant (or zero) for at least two iterations
 - [ ] &nbsp;Fat tail – Laggards
   - [ ] &nbsp;Identify the remaining use cases that must be migrated
   - [ ] &nbsp;Remind management and the team that you have to finish this
