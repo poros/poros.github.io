@@ -58,7 +58,7 @@ Assuming you want to go ahead, it's time to **migrate your use case** for real. 
 Now you are ready to announce to users and stakeholders that the **alpha** version of your shiny new thing is available! You may not consider this such a big deal after the software industry shifted to continuous delivery, but releases still play the crucial role of setting the **expectations** that your users will have for your product. Alpha should be perceived along the lines of "it's buggy, interfaces are going to change in a non-backward-compatible way, but it kinda works", and "kinda works" is as big as the distance between possible and impossible. Congrats! You can move to the next stage.
 
 <div align="center">
-<a href="http://poros.github.io/mum-beta/">
+<a class="next-arrow" href="http://poros.github.io/mum-beta/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: Beta</figcaption>

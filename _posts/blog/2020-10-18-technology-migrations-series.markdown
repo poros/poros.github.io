@@ -28,7 +28,7 @@ The first post goes over the taxonomy of migrations and how to approach them bas
 9. [The migration checklist](http://poros.github.io/migration-checklist/)
 
 <div align="center">
-<a href="http://poros.github.io/taxonomy-of-migrations/">
+<a class="next-arrow" href="http://poros.github.io/taxonomy-of-migrations/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">A taxonomy of migrations</figcaption>

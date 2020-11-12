@@ -40,7 +40,7 @@ Set an estimated end date for the migration (you probably missed your previous o
 Now migrate one must-be-migrated use case after the other, and send migration progress updates regularly to build up momentum and expectations for the end of the old technology and the migration altogether.
 
 <div align="center">
-<a href="http://poros.github.io/mum-deprecation/">
+<a class="next-arrow" href="http://poros.github.io/mum-deprecation/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: Deprecation</figcaption>

@@ -38,7 +38,7 @@ After the nudge comes the **waiting**, and after that you can use the **migratio
 And then repeat. Repeat until you find that **nudges don't work anymore**. This is easy to get wrong, and it is a pretty common mistake to either waste time in an endless loop of nudges or advance the migration to the next stage prematurely, with a much higher cost for your team than necessary. I would advise that you use your migration tracker to **check** that the number of migrated use cases per iteration is low and constant, or even zero, for at least two iterations before moving to the next phase; but the best exit condition really depends on your context.
 
 <div align="center">
-<a href="http://poros.github.io/mum-the-fat-tail/">
+<a class="next-arrow" href="http://poros.github.io/mum-the-fat-tail/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: The fat tail</figcaption>

@@ -66,7 +66,7 @@ Now it's time to execute your migration plan and **migrate all the users with si
 Usually something weird or wrong comes up for a small percentage of use cases at this point. **Create tracking tickets** for them, as for all the other **more complex use cases** which could **not** be migrated automatically, and move them to the next phase. But before going there, let's wait a bit to establish **trust** again: you've just migrated most of the users!
 
 <div align="center">
-<a href="http://poros.github.io/mum-nudges/">
+<a class="next-arrow" href="http://poros.github.io/mum-nudges/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: Nudges</figcaption>

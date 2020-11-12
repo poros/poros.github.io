@@ -54,7 +54,7 @@ The selection of the sponsors is by far one of the hardest parts of a migration,
 Lastly, make sure that your team has at least one **internal use case** that could be migrated to the new technology; and if it doesn't, **create** one running on the **old** technology you want to migrate away from. [Dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) is exactly what we are going to focus on in the next stage.
 
 <div align="center">
-<a href="http://poros.github.io/mum-alpha/">
+<a class="next-arrow" href="http://poros.github.io/mum-alpha/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: Alpha</figcaption>

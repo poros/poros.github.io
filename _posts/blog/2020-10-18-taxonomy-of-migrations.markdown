@@ -80,7 +80,7 @@ Please note that the Y axis represents the number of users who migrated at a giv
 If you are interested in this curve and in how to successfully pull off one of these migrations, follow me to the next post of the series.
 
 <div align="center">
-<a href="http://poros.github.io/mum-preparations/">
+<a class="next-arrow" href="http://poros.github.io/mum-preparations/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: Preparations</figcaption>

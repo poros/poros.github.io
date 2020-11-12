@@ -50,7 +50,7 @@ Don't celebrate just yet. You have to **clean up **everything even remotely rela
 Now you can send the **final** migration progress update and **celebrate with your team**: you have earned it! :)
 
 <div align="center">
-<a href="http://poros.github.io/migration-checklist/">
+<a class="next-arrow" href="http://poros.github.io/migration-checklist/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">The migration checklist</figcaption>
