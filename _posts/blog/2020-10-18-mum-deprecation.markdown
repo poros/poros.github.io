@@ -51,8 +51,8 @@ Now you can send the **final** migration progress update and **celebrate with yo
 
 <div align="center">
 <a href="http://poros.github.io/migration-checklist/">
-<img src="/assets/images/next.png" alt="Next">
-</a>
+<img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">The migration checklist</figcaption>
+</a>
 </div>

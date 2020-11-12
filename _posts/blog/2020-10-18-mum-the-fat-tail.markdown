@@ -41,8 +41,8 @@ Now migrate one must-be-migrated use case after the other, and send migration pr
 
 <div align="center">
 <a href="http://poros.github.io/mum-deprecation/">
-<img src="/assets/images/next.png" alt="Next">
-</a>
+<img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: Deprecation</figcaption>
+</a>
 </div>

@@ -39,8 +39,8 @@ And then repeat. Repeat until you find that **nudges don't work anymore**. This 
 
 <div align="center">
 <a href="http://poros.github.io/mum-the-fat-tail/">
-<img src="/assets/images/next.png" alt="Next">
-</a>
+<img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: The fat tail</figcaption>
+</a>
 </div>

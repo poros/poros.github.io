@@ -24,9 +24,7 @@ _"379." Luke's cunning smile widened as he watched Rey's reaction. "Is that a pr
 
 _"It's gotta be a prime number." Leia could not resist mocking Luke a little._
 
-_"It's a big number." Luke knew how to take a joke, but not this time. "And among them there are plenty of legacy code bases. Rey is great,_
-
-_ and the automation she built will work for most repositories, but some of them will have to be migrated manually. From what she says, we could end up with thirty or more situations pretty much like the billing workflow one. This is definitely going to bleed into the next two quarters." Luke was going at full steam. "I know that rolling back would be pretty rough now after all this work we put in, but it's still an option. Are we sure that we really want to do this migration?"_
+_"It's a big number." Luke knew how to take a joke, but not this time. "And among them there are plenty of legacy code bases. Rey is great, and the automation she built will work for most repositories, but some of them will have to be migrated manually. From what she says, we could end up with thirty or more situations pretty much like the billing workflow one. This is definitely going to bleed into the next two quarters." Luke was going at full steam. "I know that rolling back would be pretty rough now after all this work we put in, but it's still an option. Are we sure that we really want to do this migration?"_
 
 _"Yes, this is still very important for the company and I believe that we should move forward." Leia didn't like the fact that her voice sounded a little annoyed. "I appreciate you being considerate, but how many more times are you gonna ask me that?"_
 
@@ -69,8 +67,8 @@ Usually something weird or wrong comes up for a small percentage of use cases at
 
 <div align="center">
 <a href="http://poros.github.io/mum-nudges/">
-<img src="/assets/images/next.png" alt="Next">
-</a>
+<img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: Nudges</figcaption>
+</a>
 </div>

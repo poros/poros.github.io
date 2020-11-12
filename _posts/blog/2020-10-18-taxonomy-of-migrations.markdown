@@ -81,8 +81,8 @@ If you are interested in this curve and in how to successfully pull off one of t
 
 <div align="center">
 <a href="http://poros.github.io/mum-preparations/">
-<img src="/assets/images/next.png" alt="Next">
-</a>
+<img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: Preparations</figcaption>
+</a>
 </div>

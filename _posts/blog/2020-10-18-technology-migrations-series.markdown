@@ -29,8 +29,8 @@ The first post goes over the taxonomy of migrations and how to approach them bas
 
 <div align="center">
 <a href="http://poros.github.io/taxonomy-of-migrations/">
-<img src="/assets/images/next.png" alt="Next">
-</a>
+<img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">A taxonomy of migrations</figcaption>
+</a>
 </div>
