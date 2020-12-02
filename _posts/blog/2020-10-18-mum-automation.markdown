@@ -8,7 +8,7 @@ tag:
 description: "Migrations under monopoly: Automation"
 ---
 
-_This is the fifth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
+_This is the fifth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](https://poros.github.io/technology-migrations-series/)._
 
 ## Migrations under monopoly: Automation
 
@@ -66,7 +66,7 @@ Now it's time to execute your migration plan and **migrate all the users with si
 Usually something weird or wrong comes up for a small percentage of use cases at this point. **Create tracking tickets** for them, as for all the other **more complex use cases** which could **not** be migrated automatically, and move them to the next phase. But before going there, let's wait a bit to establish **trust** again: you've just migrated most of the users!
 
 <div align="center">
-<a class="next-arrow" href="http://poros.github.io/mum-nudges/">
+<a class="next-arrow" href="https://poros.github.io/mum-nudges/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: Nudges</figcaption>

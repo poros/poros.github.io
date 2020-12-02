@@ -4,7 +4,7 @@ My personal minimal static website.
 * Clone the forked repo on your machine
 * Enter the cloned folder via terminal and run bundle install
 * Then run bundle exec jekyll serve --drafts --config _config.yml
-* Open it in your browser: http://localhost:4000
+* Open it in your browser: https://localhost:4000
 * Test your app with bundle exec htmlproofer ./_site
 
 * Blogs, works and project are differentiated by the attribute with the same name of the category set to true and they must live in the directory with the same name

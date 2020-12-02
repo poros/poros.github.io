@@ -8,7 +8,7 @@ tag:
 description: "Migrations under monopoly: Beta"
 ---
 
-_This is the fourth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
+_This is the fourth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](https://poros.github.io/technology-migrations-series/)._
 
 ## Migrations under monopoly: Beta
 
@@ -58,7 +58,7 @@ Assuming everything goes well, it's time to send the first **migration progress 
 In the announcement, remember to make clear that **beta testers** are welcome and that you are eager to help them out. And now **wait**. You may not get anyone who wants to migrate early, but the feedback you've got from your sponsors should be enough to **polish** your migration guide and build some automation for the next stage.
 
 <div align="center">
-<a class="next-arrow" href="http://poros.github.io/mum-automation/">
+<a class="next-arrow" href="https://poros.github.io/mum-automation/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: Automation</figcaption>

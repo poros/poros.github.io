@@ -8,7 +8,7 @@ tag:
 description: "Migrations under monopoly: Deprecation"
 ---
 
-_This is the eighth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
+_This is the eighth installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](https://poros.github.io/technology-migrations-series/)._
 
 ## Migrations under monopoly: Deprecation
 
@@ -50,7 +50,7 @@ Don't celebrate just yet. You have to **clean up **everything even remotely rela
 Now you can send the **final** migration progress update and **celebrate with your team**: you have earned it! :)
 
 <div align="center">
-<a class="next-arrow" href="http://poros.github.io/migration-checklist/">
+<a class="next-arrow" href="https://poros.github.io/migration-checklist/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">The migration checklist</figcaption>

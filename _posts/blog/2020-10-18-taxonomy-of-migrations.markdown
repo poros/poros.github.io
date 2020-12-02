@@ -9,7 +9,7 @@ tag:
 description: "A taxonomy of migrations"
 ---
 
-_This is the first installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
+_This is the first installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](https://poros.github.io/technology-migrations-series/)._
 
 ## A taxonomy of migrations
 
@@ -80,7 +80,7 @@ Please note that the Y axis represents the number of users who migrated at a giv
 If you are interested in this curve and in how to successfully pull off one of these migrations, follow me to the next post of the series.
 
 <div align="center">
-<a class="next-arrow" href="http://poros.github.io/mum-preparations/">
+<a class="next-arrow" href="https://poros.github.io/mum-preparations/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: Preparations</figcaption>

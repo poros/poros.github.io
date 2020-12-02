@@ -8,7 +8,7 @@ tag:
 description: "Migrations under monopoly: The fat tail"
 ---
 
-_This is the seventh installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](http://poros.github.io/technology-migrations-series/)._
+_This is the seventh installment in a series of blog posts on the topic of technology migrations. If you want to start from the very beginning, you can find an overview of the series and an index of the posts [here](https://poros.github.io/technology-migrations-series/)._
 
 ## Migrations under monopoly: The fat tail
 
@@ -40,7 +40,7 @@ Set an estimated end date for the migration (you probably missed your previous o
 Now migrate one must-be-migrated use case after the other, and send migration progress updates regularly to build up momentum and expectations for the end of the old technology and the migration altogether.
 
 <div align="center">
-<a class="next-arrow" href="http://poros.github.io/mum-deprecation/">
+<a class="next-arrow" href="https://poros.github.io/mum-deprecation/">
 <img style="max-width:5%" src="/assets/images/next_arrow.png" alt="Next">
 <b><figcaption class="caption">Next</figcaption></b>
 <figcaption class="caption">Migrations under monopoly: Deprecation</figcaption>

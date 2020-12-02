@@ -49,7 +49,7 @@ This talk would outline how easy it is to write performant code in a language li
 
 This talk is a joint talk realized with [@flavray](https://github.com/flavray).
 
-You can check out the project [here](http://poros.github.io/avro-rs).
+You can check out the project [here](https://poros.github.io/avro-rs).
 
 ---
 

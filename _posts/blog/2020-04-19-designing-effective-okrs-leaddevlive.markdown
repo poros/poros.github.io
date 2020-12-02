@@ -33,7 +33,7 @@ In this panel, we’ll take a look at how to design OKRs that do what they’re 
 
 ---
 
-## Blog Post: [A Checklist For OK OKRs](http://poros.github.io/a-checklist-for-ok-okrs/) ##
+## Blog Post: [A Checklist For OK OKRs](https://poros.github.io/a-checklist-for-ok-okrs/) ##
 
 ---
 
