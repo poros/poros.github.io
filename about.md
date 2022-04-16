@@ -9,7 +9,7 @@ permalink: /about/index.html
 #### If you're looking for the computer guy
 Writing code and tinkering with computers for a living, writing code and tinkering with computers for fun. Also helping out a team of great people to do the same.
 
-Engineering Manager by day, Software/System/Reliability Engineer by night, keeps telling his mom that he's one of the computer people at Yelp. Mainly interested in distributed systems and stream processing, has a taste for open-source software.
+Engineering Manager by day, Software Engineer by night, keeps telling his mom that he's one of the computer people at Meta. Mainly interested in distributed systems, streaming and stream processing; has a taste for open-source software.
 
 Having accidentally stumbled upon a couple of degrees and diplomas in Computer Engineering between Italy and France, tries to keep his boring past locked up on [LinkedIn](https://www.linkedin.com/in/antonioverardi).
 
@@ -22,6 +22,8 @@ Mainly writing code and poetry. Even actual words from time to time.
 
 Regularly dumping some of them on [Twitter](https://twitter.com/porosVII) or [Facebook](https://www.facebook.com/antonio.uccio.verardi). Very rarely [publishing](https://poros.github.io/works/) or [blogging](https://poros.github.io/pseudoblog/) them.
 
-Primarily interested in literature in all its forms, from essays on postmodernism to Disney comics or graffiti on public toilets doors. And in philosophy, video games and game design, too. But also in physics, math, psychology, riddles, cinema and art in general (yeah, even classic). Oh, and obviously in nice food.
+Primarily interested in literature in all its forms, from essays on postmodernism to Disney comics or graffiti on public toilets doors. And in philosophy, video games and game design, too. But also in physics, math, psychology, riddles, cinema and art in general. Oh, and obviously in nice food.
+
+After an embarrassingly long time, discovered that his passion for storytelling, acting and games was basically screaming Dungeons & Dragons. Now DMing every week and loving it. Happy to do one-shots for newcomers and veterans alike.
 
 Considers his most precious and useless skill the ability of pleasantly discussing about literally anything with anyone, especially if blessed by utter ignorance of the matter. Always up for a live demo.

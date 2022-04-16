@@ -1,6 +1,6 @@
 # main text of home
 name: Antonio Uccio Verardi
-bio: "from <a href='https://www.yelp.com' target='_blank'>yelp</a> import engineering_manager"
+bio: "from <a href='https://about.facebook.com/meta/' target='_blank'>meta</a> import engineering_manager"
 
 # if it's an external image, update below for true
 external-image: false
